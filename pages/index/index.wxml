@@ -1,0 +1,5 @@
+<!--index.wxml-->
+<view class="content">
+    <image src="{{src}}"  mode="widthFix"/>
+</view>
+<view class="main" bindtap="select">选择图片</view>
